@@ -1,0 +1,11 @@
+Windows:
+    (1) Open a new empty project in visual studio.
+    (2) Put all .cpp files into "Source Files".
+    (3) Put all .h files into "Header Files".
+    (4) Press "start" button to compile and run.
+
+Linux:
+    (1) Open the command line interface.
+    (1) Type "make" under server directory to compile.
+    (2) Run "./chatroom".
+

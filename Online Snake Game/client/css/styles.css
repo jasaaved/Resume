@@ -1,0 +1,84 @@
+/*Joshua Jacoby
+Steven Ratcliff
+Jonathan Saavedra
+    */
+
+h1, h2, h3, h4, h5, h6, p, a, form {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+img {
+    width: 435px;
+    max-width: 80%;
+    height: auto;
+    margin: 1em auto 0 auto;
+    display: block; 
+}
+
+#connection-status {
+    display: none;
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 300;
+    height: 20px;
+    margin-top: 0;
+    padding: 0.5em 0 0.5em 0;
+}
+
+canvas {
+    display: block;
+    border: 3px solid #000;
+    margin: auto;
+    position: absolute;
+    top: 30px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+form {
+    margin: 2em auto 2em auto;
+    display: table;
+}
+
+form input, form button  {
+    display: block;
+    margin: 0 0 1em 0;
+    font-size: medium;
+}
+
+form label {
+    text-transform: uppercase;
+    font-size: small;
+    color: gray;
+}
+
+.btn {
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+    padding: 0.5em 1em 0.5em 1em;
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: 600;
+    width: 100%;
+    max-width: 220px;
+    -webkit-transition: background-color 100ms, color 100ms;
+    -moz-transition: background-color 100ms, color 100ms;
+    -o-transition: background-color 100ms, color 100ms;
+    transition: background-color 100ms, color 100ms;
+}
+
+.btn:hover {
+    background-color: blue;
+    color: white;
+}
+
+#msg-panel {
+    display: none; /* Hide at start */
+    text-align: center;
+    margin: 2em auto 2em auto;
+}
