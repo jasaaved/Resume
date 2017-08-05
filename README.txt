@@ -1,7 +1,10 @@
-RECENT TO OLDEST:
-Online Bomberman
-Online Snake Game
-3D educational game
+OLDEST TO RECENT:
 Python Game
+3D educational game
+Online Snake Game
+Online Bomberman
+Global Game Jam 2017
+Final Game Project
 
-The more recent the project, the more complex the code.
+
+
