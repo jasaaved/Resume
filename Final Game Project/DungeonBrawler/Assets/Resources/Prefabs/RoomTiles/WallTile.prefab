@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1113617499871210}
+  m_IsPrefabParent: 1
+--- !u!1 &1113617499871210
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4438513339127170}
+  - component: {fileID: 212128037771278038}
+  - component: {fileID: 61267298659014318}
+  - component: {fileID: 114152536331111870}
+  m_Layer: 11
+  m_Name: WallTile
+  m_TagString: Ground
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4438513339127170
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1113617499871210}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &61267298659014318
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1113617499871210}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: 3626fe8e008014f6bbd19bb72937b311, type: 2}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+--- !u!114 &114152536331111870
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1113617499871210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25ed812da0d14764da069fa1f2938f7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WallSprites:
+  - {fileID: 21300000, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300004, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300000, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300004, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+  - {fileID: 21300002, guid: 73a0d3914a6ecfb4088b03752706a79b, type: 3}
+--- !u!212 &212128037771278038
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1113617499871210}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 712981a02e67fd942abba8054319bc6c, type: 3}
+  m_Color: {r: 0.40000004, g: 0.37647063, b: 0.34901962, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0

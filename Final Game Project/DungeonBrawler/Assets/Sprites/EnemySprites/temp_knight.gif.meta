@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 72f007db2afe57e48bd774032c2b9806
+timeCreated: 1483923213
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: temp_knight_spritesheet_0
+    21300002: temp_knight_spritesheet_1
+    21300004: temp_knight_spritesheet_2
+    21300006: temp_knight_spritesheet_3
+    21300008: temp_knight_spritesheet_4
+    21300010: temp_knight_spritesheet_5
+    21300012: temp_knight_spritesheet_6
+    21300014: temp_knight_spritesheet_7
+    21300016: temp_knight_spritesheet_8
+    21300018: temp_knight_spritesheet_9
+    21300020: temp_knight_spritesheet_10
+    21300022: temp_knight_spritesheet_11
+    21300024: temp_knight_spritesheet_12
+    21300026: temp_knight_spritesheet_13
+    21300028: temp_knight_spritesheet_14
+    21300030: temp_knight_spritesheet_15
+    21300032: temp_knight_spritesheet_16
+    21300034: temp_knight_spritesheet_17
+    21300036: temp_knight_spritesheet_18
+    21300038: temp_knight_spritesheet_19
+    21300040: temp_knight_spritesheet_20
+    21300042: temp_knight_spritesheet_21
+    21300044: temp_knight_spritesheet_22
+    21300046: temp_knight_spritesheet_23
+    21300048: temp_knight_spritesheet_24
+    21300050: temp_knight_spritesheet_25
+    21300052: temp_knight_spritesheet_26
+    21300054: temp_knight_spritesheet_27
+    21300056: temp_knight_spritesheet_28
+    21300058: temp_knight_spritesheet_29
+    21300060: temp_knight_spritesheet_30
+    21300062: temp_knight_0
+    21300064: temp_knight_1
+    21300066: temp_knight_2
+    21300068: temp_knight_3
+    21300070: temp_knight_4
+    21300072: temp_knight_5
+    21300074: temp_knight_6
+    21300076: temp_knight_7
+    21300078: temp_knight_8
+    21300080: temp_knight_9
+    21300082: temp_knight_10
+    21300084: temp_knight_11
+    21300086: temp_knight_12
+    21300088: temp_knight_13
+    21300090: temp_knight_14
+    21300092: temp_knight_15
+    21300094: temp_knight_16
+    21300096: temp_knight_17
+    21300098: temp_knight_18
+    21300100: temp_knight_19
+    21300102: temp_knight_20
+    21300104: temp_knight_21
+    21300106: temp_knight_22
+    21300108: temp_knight_23
+    21300110: temp_knight_24
+    21300112: temp_knight_25
+    21300114: temp_knight_26
+    21300116: temp_knight_27
+    21300118: temp_knight_28
+    21300120: temp_knight_29
+    21300122: temp_knight_30
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: temp_knight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 227
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 228
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 227
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 226
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 226
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 225
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 177
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 178
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 179
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 178
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 178
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 134
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 131
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 132
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 131
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 88
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 101
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 53
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_24
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 90
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 49
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 13
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 45
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 48
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 47
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: temp_knight_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
